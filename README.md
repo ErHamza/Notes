@@ -1,3 +1,8 @@
 #   Project
-this is a branch
+<<<<<<< HEAD
+
 this is message from branch new
+=======
+this is master
+
+>>>>>>> master
